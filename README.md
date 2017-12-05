@@ -18,6 +18,7 @@ Steps:
 4. cp web/target/charlie.war ../../apache-tomcat-8.5.9/webapps/
 5. cd ../apache-tomcat-8.5.9/bin/
 6. ./startup.sh
+7. Enter url 'http://localhost:8080/charlie/user/articles' in navigation page.
 
 
 Notes:
